@@ -1,6 +1,6 @@
 {
   "name": "fd-setattr",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add or change the attributes of a DOM element in functional way.",
   "main": "index.js",
   "scripts": {
